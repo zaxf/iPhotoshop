@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 *~
 *.mode1v3
@@ -5,3 +6,13 @@
 *.perspectivev3
 xcuserdata
 project.xcworkspace
+=======
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control?
+#
+# Pods/
+
+>>>>>>> 6ec030fb17a7aae0f98bf29f24aa30e1e26da5dd
