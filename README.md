@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-Inkpad
+iPattern
+تصاميم
 ======
 
-Inkpad is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
+iPattern is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
 
-Inkpad was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your Dropbox as SVG or PDF.
+iPattern was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your Dropbox as SVG or PDF.
+
+see the original source code at: https://github.com/sprang/Inkpad
 
 Features:
 
@@ -26,52 +28,14 @@ Features:
 * Email drawings as SVG, PDF, PNG and JPEG.
 * Send SVG, PDF, PNG, and JPEG directly to your Dropbox.
 
-Inkpad requires iOS 7. It is available on the [App Store](https://itunes.apple.com/app/id400083414).
+iPattern requires iOS 7. It is available on the [App Store](https://itunes.apple.com/us/app/ipattern/id903094215?l=ar&ls=1&mt=8).
 
 License
 -------
 
-Inkpad is Free/Libre Open Source Software. It is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/).
+iPattern is Free/Libre Open Source Software. It is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/).
 =======
-ipotoshop
-=========
 
-the original source code is: https://github.com/sprang/Inkpad
-
-iPhotoshop is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
-
-iPhotoshop was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your Dropbox as SVG or PDF.
-
-Features:
-
-Very high performance. Select, scale and rotate hundreds of objects with zero lag.
-Create arbitrary bezier paths with the Pen tool.
-Create compound paths, masks and groups.
-Create text objects.
-Place photos from your albums.
-Boolean operators on paths (Unite, Intersect, Exclude, Subtract Front)
-Powerful scale and rotate tools.
-Gradient fills with interactive editing on canvas.
-Arbitrary stroke dash patterns.
-Swatch library.
-Unlimited layers per drawing.
-Rename, rearrange, delete, hide and lock layers.
-Adjust layer transparency.
-Snap to grid, points, and path edges.
-Isolate the active layer for easy editing.
-Email drawings as SVG, PDF, PNG and JPEG.
-Send SVG, PDF, PNG, and JPEG directly to your Dropbox.
-iPhotoshop requires iOS 7. It is available on the App Store.
-
-License
-
-iPhotoshop is Free/Libre Open Source Software. It is distributed under the Mozilla Public License v2.0.
->>>>>>> 6ec030fb17a7aae0f98bf29f24aa30e1e26da5dd
-
-Please do not submit unmodified (or trivially modified) versions of this application to the App Store. The license grants both rights and responsibilities. If you choose to clone and submit this application to the App Store, you are required to make this source code (and any changes that you've made to it) publicly available. You must also make it clear that the source code is available and provide a link to it.
-
-I will ask Apple to pull any apps that do not comply. Please don't waste your time and mine.
-<<<<<<< HEAD
 
 How to Contribute
 -----------------
@@ -91,6 +55,7 @@ Contributors
 * [Sam Green](https://github.com/samgreen)
 * [Alistair McMillan](https://github.com/alistairmcmillan)
 * [Oscar Rysdyk](https://github.com/32Beat)
+* [Abduolkader Idriss](https://github.com/zaxf)
 
 Localizations:
 
@@ -105,9 +70,5 @@ Localizations:
 * [Ale Muñoz](https://github.com/bomberstudios) / Spanish
 * [Pillow Tse](https://github.com/xiezhhw), [Zhang Yungui](https://github.com/rhcad) / Chinese Simplified
 * [Akiji Tanaka](https://github.com/akiji) / Japanese
+* [Abduolkader Idriss](https://github.com/zaxf) / Arabic
 
-App Icon:
-
-* [Matthew Rex Downham](http://www.mrexd.com/)
-=======
->>>>>>> 6ec030fb17a7aae0f98bf29f24aa30e1e26da5dd
